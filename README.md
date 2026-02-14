@@ -91,7 +91,7 @@ payment integration, and role-based access control.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/HarshadaBodkhe/SliceIt-MERN-App.git cd
+[git clone https://github.com/HarshadaBodkhe/OIBSIP_WebDevelopment_Level3_Task.git]
 SliceIt-MERN-App
 
 ### 2. Install Dependencies
