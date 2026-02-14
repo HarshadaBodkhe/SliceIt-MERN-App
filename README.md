@@ -139,8 +139,3 @@ Backend API: http://localhost:5000
 Harshada Bodkhe\
 GitHub: https://github.com/HarshadaBodkhe
 
-------------------------------------------------------------------------
-
-## License
-
-This project is developed for learning and internship purposes.
